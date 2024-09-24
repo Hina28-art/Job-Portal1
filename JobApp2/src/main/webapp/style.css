@@ -1,0 +1,26 @@
+body {
+    background-color:rgb(128, 128, 128); /* Bootstrap primary blue */
+    color: #fff; /* Text color for better contrast on the blue background */
+   
+}
+.navbar-nav .nav-link {
+            font-size: 18px; /* Adjust the font size as needed */
+        }
+.container {
+    border-radius: 15px; /* Optional: Add some border-radius for a softer look */
+    padding: 0px;
+    margin-top: 70px; /* Adjust the margin as needed */
+}
+
+.cdClass{
+	background-color: #ffffff;
+	border-radius: 10px;
+}
+
+.card {
+    height: 525px; /* Adjust the height as needed */
+}
+
+
+ 
+      
